@@ -8,10 +8,10 @@
 <body>
   <div class="jumbotron" style="background-color:white">
      <h1 class="text-center">Welcome to</h1>
-      <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
+      <img src="http://media.glamour.com/photos/62f68710a6e654c0c48830be/6:7/w_1710,h_1995,c_limit/8-11%20alia%20bhatt.jpg" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job is done with jenkins</h1>
-      <h2 class="text-center">Now you are with Narendra</h2>
+      <h2 class="text-center">Now we are with Alia</h2>
   </div>
 </body>
 </html>
